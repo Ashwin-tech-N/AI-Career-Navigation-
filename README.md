@@ -131,7 +131,7 @@ careerflow-ai/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/careerflow-ai.git
+git clone [https://github.com/your-username/careerflow-ai.git](https://github.com/Ashwin-tech-N/AI-Career-Navigation-)
 cd careerflow-ai
 ````
 
@@ -321,24 +321,4 @@ Full-stack developer | AI automation builder
 
 MIT License
 
-```
-
----
-
-# ✅ Done
-This README now looks:
-✔ professional  
-✔ production grade  
-✔ recruiter friendly  
-✔ GitHub ready  
-
----
-
-If you want next, I can also generate:
-✅ workflow export JSON  
-✅ architecture diagram  
-✅ deployment guide  
-✅ or GitHub badges + screenshots section  
-
-Just say which.
 ```
