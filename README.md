@@ -313,11 +313,11 @@ It replaces guesswork with actionable guidance.
 
 * Dashboard
   <img width="1919" height="988" alt="Screenshot 2026-02-04 113929" src="https://github.com/user-attachments/assets/bfa8a4fd-b2a7-466a-a803-2282855ec689" />
+  
+* Job Trend
+  <img width="1919" height="992" alt="Screenshot 2026-02-04 113614" src="https://github.com/user-attachments/assets/b608af35-5aa4-4ccd-84cb-c9b3a238f020" />
 
-*Job Trend 
-<img width="1919" height="992" alt="Screenshot 2026-02-04 113614" src="https://github.com/user-attachments/assets/b608af35-5aa4-4ccd-84cb-c9b3a238f020" />
-
-*n8n workflow
+* n8n workflow
 <img width="1917" height="995" alt="Screenshot 2026-02-04 110750" src="https://github.com/user-attachments/assets/d7cf2061-de4f-487d-831b-3299abf6082b" />
 
 ---
