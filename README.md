@@ -303,10 +303,22 @@ It replaces guesswork with actionable guidance.
 ## 📸 Demo Use Cases
 
 * Resume optimization
+  <img width="1919" height="940" alt="Screenshot 2026-02-04 113813" src="https://github.com/user-attachments/assets/82fc2527-3d75-4847-a8e5-69e6e4a5f83e" />
+
 * Skill assessment
-* Roadmap generation
+  <img width="1919" height="997" alt="Screenshot 2026-02-04 113834" src="https://github.com/user-attachments/assets/dec982b5-e889-4162-9e11-8393f259b618" />
+  
 * Job matching
-* Interview preparation
+  <img width="1915" height="994" alt="Screenshot 2026-02-04 113919" src="https://github.com/user-attachments/assets/306b6be4-dcc7-4d40-9774-d6ffc2648876" />
+
+* Dashboard
+  <img width="1919" height="988" alt="Screenshot 2026-02-04 113929" src="https://github.com/user-attachments/assets/bfa8a4fd-b2a7-466a-a803-2282855ec689" />
+
+*Job Trend 
+<img width="1919" height="992" alt="Screenshot 2026-02-04 113614" src="https://github.com/user-attachments/assets/b608af35-5aa4-4ccd-84cb-c9b3a238f020" />
+
+*n8n workflow
+<img width="1917" height="995" alt="Screenshot 2026-02-04 110750" src="https://github.com/user-attachments/assets/d7cf2061-de4f-487d-831b-3299abf6082b" />
 
 ---
 
