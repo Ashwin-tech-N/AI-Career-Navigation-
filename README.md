@@ -1,6 +1,3 @@
-# ✅ Full Professional README.md
-
-```markdown
 # 🚀 CareerFlow AI – Smart Career Navigation & Job Matching Platform
 
 CareerFlow AI is a full-stack AI-powered career guidance platform that helps students and job seekers make smarter career decisions using resume analysis, real-time job matching, skill gap detection, and personalized learning roadmaps.
