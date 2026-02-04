@@ -316,9 +316,9 @@ It replaces guesswork with actionable guidance.
   
 * Job Trend
   <img width="1919" height="992" alt="Screenshot 2026-02-04 113614" src="https://github.com/user-attachments/assets/b608af35-5aa4-4ccd-84cb-c9b3a238f020" />
-
+  
 * n8n workflow
-<img width="1917" height="995" alt="Screenshot 2026-02-04 110750" src="https://github.com/user-attachments/assets/d7cf2061-de4f-487d-831b-3299abf6082b" />
+  <img width="1917" height="995" alt="Screenshot 2026-02-04 110750" src="https://github.com/user-attachments/assets/d7cf2061-de4f-487d-831b-3299abf6082b" />
 
 ---
 
